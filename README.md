@@ -1,3 +1,3 @@
 # aws-guide
 
-## How To Host Website On AWS Cloude
+## How To Host Website On AWS Cloud
